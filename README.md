@@ -20,4 +20,6 @@
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
+![Snake animation](https://github.com/KlaudioEduardo/KlaudioEduardo/blob/output/github-contribution-grid-snake.svg)
+
 
