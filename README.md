@@ -1,5 +1,10 @@
 ## Olá, eu sou Klaudio, desenvolvedor de software BackEnd! 🚀
 
+![Klaudio GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaudioEduardo&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaudioEduardo&layout=compact&theme=dark)
+
+
 ### 🛠️ Linguagens e Ferramentas:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -19,8 +24,6 @@
   <a href="https://www.instagram.com/klaudio.carv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
-
-![Snake animation](https://github.com/KlaudioEduardo/KlaudioEduardo/blob/output/github-contribution-grid-snake.svg)
 
 
 
