@@ -12,6 +12,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/JQuery_logo_text.svg" alt="jQuery" width="80" height="40"/>
+
+  
 </p>
 
 ### 🌐 Conecte-se comigo:
